@@ -1,0 +1,6 @@
+.dropbox
+desktop.ini
+.svn/
+publish/
+build/buildinfo.properties
+.DS_Store
